@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/StormCodeTeam/",
+    "build": "vite build --base=/StormCodeTeam-98/",
     "preview": "vite preview"
   },
   "devDependencies": {
